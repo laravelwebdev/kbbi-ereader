@@ -15,4 +15,4 @@ update oktober 2025
 4. mobi (Untuk Kindle, not tested yet, gak punya kindle)
 5. kobo (not tested yet, gak punya kobo)
 # Tautan Unduh
-[Unduh](https://github.com/laravelwebdev/KBBI-Stardict/releases)
+[Unduh](https://github.com/laravelwebdev/kbbi-ereader/releases)
